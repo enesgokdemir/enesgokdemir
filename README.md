@@ -8,8 +8,8 @@
 - 📫 How to reach me **enes58613@gmail.com**
 
 ## ⏲ What we are doing now:
--I'm developing a project 🚀.
--I'm programming something for data science 💻.
+I'm developing a project 🚀.
+I'm programming something for data science 💻.
 
 ### 🌎 Socials:
 
