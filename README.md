@@ -19,14 +19,14 @@ I'm programming something for data science 💻.
 
 <br />
 ### 💻 Tech Stack :
-Python
-MicrosoftSQLServer
-Canva
-scikit-learn
-PyTorch
-Pandas
-NumPy
-Keras
+- Python
+- MicrosoftSQLServer
+- Canva
+- scikit-learn
+- PyTorch
+- Pandas
+- NumPy
+- Keras
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=enesgokdemir&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
