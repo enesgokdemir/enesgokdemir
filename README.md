@@ -18,14 +18,18 @@ I'm programming something for data science 💻.
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 </br>
 # 💻 Tech Stack:
+- C#
 - Python
 - MicrosoftSQLServer
+- Transact Sql (T-Sql)
 - Canva
 - scikit-learn
 - PyTorch
 - Pandas
 - NumPy
 - Keras
+- Hpvm
+
 
 # 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=enesgokdemir&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
