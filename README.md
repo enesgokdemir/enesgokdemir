@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Enes</h1>
-<h3 align="center">Full Stack Developer,Data Scientist 🚀</h3>
+<h3 align="center">Full Stack Developer , Data Scientist 🚀</h3>
 
 - 🔭 I’m currently working on a large and special application.**automatization**
 
