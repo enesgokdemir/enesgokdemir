@@ -20,6 +20,7 @@ I'm programming something for data science 💻.
 # 💻 Tech Stack:
 - C#
 - Python
+- Android
 - MicrosoftSQLServer
 - Transact Sql (T-Sql)
 - Canva
@@ -28,7 +29,22 @@ I'm programming something for data science 💻.
 - Pandas
 - NumPy
 - Keras
-- Hpvm
+- IIS
+- DNS
+- TCP/IP
+- Hyper-V
+- SCCM
+- Active Directory
+- Sanallaştırma
+- Windows Server
+- VMware
+- VMware ESX
+- VMware vSphere
+- VMware Infrastructure
+- Microsoft Exchange
+- REST
+- SOAP
+
 
 
 # 📊GitHub Stats:
