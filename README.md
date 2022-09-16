@@ -23,12 +23,15 @@ I'm programming something for data science 💻.
 - Android
 - MicrosoftSQLServer
 - Transact Sql (T-Sql)
+- Spark
 - Canva
 - scikit-learn
 - PyTorch
 - Pandas
 - NumPy
 - Keras
+- SciPy
+- Tensorflow
 - IIS
 - DNS
 - TCP/IP
