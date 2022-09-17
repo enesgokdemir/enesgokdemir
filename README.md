@@ -28,6 +28,7 @@ I'm programming something for data science 💻.
 - scikit-learn
 - PyTorch
 - Pandas
+- Seaborn
 - NumPy
 - Keras
 - SciPy
