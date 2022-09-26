@@ -47,7 +47,7 @@ I'm programming something for data science 💻.
 - Hyper-V
 - SCCM
 - Active Directory
-- Sanallaştırma
+- Virtualization
 - Windows Server
 - VMware
 - VMware ESX
