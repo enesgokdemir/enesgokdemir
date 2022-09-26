@@ -10,6 +10,7 @@
 ## ⏲ What am i doing now:
 I'm developing a project 🚀.
 I'm programming something for data science 💻.
+
 🔭 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib),
 🌱 Data Science,
 💬 Big Data
