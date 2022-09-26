@@ -11,12 +11,12 @@
 I'm developing a project 🚀.
 I'm programming something for data science 💻.
 
-🔭 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib),
-🌱 Data Science,
-💬 Big Data
-👯 Machine Learning,
-📫 Artificial Intelligence(AI),
-⚡ Deep Learning
+- 🔭 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib),
+- 🌱 Data Science,
+- 💬 Big Data,
+- 👯 Machine Learning,
+- 📫 Artificial Intelligence(AI),
+- ⚡ Deep Learning
 
 ### 🌎 Socials:
 
