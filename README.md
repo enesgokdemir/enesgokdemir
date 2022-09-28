@@ -63,6 +63,6 @@ I'm programming something for data science 💻.
 ![](https://github-readme-stats.vercel.app/api?username=enesgokdemir&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 [instagram]: https://www.instagram.com/enes.gokdemir
-[linkedin]: https://www.linkedin.com/in/enes-gökdemir/
+[linkedin]: https://www.linkedin.com/in/enes-gokdemir/
 [medium]: https://medium.com/@enes58613/
 [gmail]: mailto:enes58613@gmail.com
