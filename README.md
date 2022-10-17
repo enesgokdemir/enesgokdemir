@@ -31,7 +31,6 @@ I'm programming something for data science 💻.
 - MicrosoftSQLServer
 - Transact Sql (T-Sql)
 - Spark
-- Canva
 - scikit-learn
 - PyTorch
 - Pandas
