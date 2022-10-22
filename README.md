@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Enes</h1>
-<h3 align="center">Machine Learning Developer , Data Scientist 🚀</h3>
+<h3 align="center">Machine Learning Developer , AI & Data Scientist 🚀</h3>
 
 - 🔭 I’m currently working on a large and special application.
 
@@ -21,15 +21,15 @@ I'm programming something for data science 💻.
 </br>
 # 💻 Tech Stack:
 - C#
+- Android
+- MicrosoftSQLServer
+- Transact Sql (T-Sql)
 - Python
 - Data Science
 - Big Data
 - Machine Learning
 - Artificial Intelligence(AI)
 - Deep Learning
-- Android
-- MicrosoftSQLServer
-- Transact Sql (T-Sql)
 - Spark
 - scikit-learn
 - PyTorch
