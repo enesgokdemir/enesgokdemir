@@ -40,6 +40,7 @@ I'm programming something for data science 💻.
 - SciPy
 - Matplotlib
 - Tensorflow
+- OpenCV
 - IIS
 - DNS
 - TCP/IP
