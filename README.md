@@ -41,6 +41,7 @@ I'm programming something for data science 💻.
 - Matplotlib
 - Tensorflow
 - OpenCV
+- Django
 - IIS
 - DNS
 - TCP/IP
