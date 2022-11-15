@@ -1,17 +1,12 @@
 <h1 align="center">Hey there, I'm Enes</h1>
 <h3 align="center">Machine Learning Developer , AI & Data Scientist 🚀</h3>
 
-- 🔭 I’m currently working on a large and special application.
-
 - 🌱 I’m currently learning 😂
 
 - 📫 How to reach me **enes58613@gmail.com**
 
 ## ⏲ What am i doing now:
-I'm developing a project 🚀.
-
-I'm programming something for data science 💻.
-
+- I'm coding for data science 💻.
 
 ### 🌎 Socials:
 
