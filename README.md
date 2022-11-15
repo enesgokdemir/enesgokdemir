@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **enes58613@gmail.com**
 
-## ⏲ What am i doing now:
+### ⏲ What am i doing now:
 - I'm coding for data science 💻.
 
 ### 🌎 Socials:
@@ -14,7 +14,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 </br>
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -40,7 +40,6 @@
 
 ![](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-
 - Data Science
 - Big Data
 - Machine Learning
@@ -56,9 +55,7 @@
 - REST
 - SOAP
 
-
-
-# 📊GitHub Stats:
+### 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=enesgokdemir&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 [instagram]: https://www.instagram.com/enes.gokdemir
