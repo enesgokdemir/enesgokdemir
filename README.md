@@ -8,7 +8,6 @@
 ### ⏲ What am i doing now:
 - I'm coding for data science 💻.
 
-curl ascii.live/forrest
 
 ### 🌎 Socials:
 
